@@ -13,7 +13,7 @@ import os
 import re
 import shutil
 import uuid
-
+import easy
 import torch
 import torch.utils.cpp_extension
 from torch.utils.file_baton import FileBaton
