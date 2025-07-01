@@ -48,7 +48,7 @@ class Visualizer(imgui_window.ImguiWindow):
         self.button_w           = 0
         self.image_w            = 0
         self.image_h            = 0
-
+        print("What am I doing here?")
         # Widgets.
         self.pickle_widget      = pickle_widget.PickleWidget(self)
         self.latent_widget      = latent_widget.LatentWidget(self)
