@@ -17,7 +17,7 @@ import dnnlib
 import numpy as np
 import PIL.Image
 import torch
-
+import click
 import legacy
 
 #----------------------------------------------------------------------------
